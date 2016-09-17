@@ -1,0 +1,28 @@
+p {
+	font-size: 24px; 
+	font-family: comic sans ms ;
+	background-color: #FFDD00 ;
+	color : #5500FF ;
+	text-align: center;
+}
+h1 {
+	background-color: #FFDD00 ;
+	color : #5500FF;
+	font-family: comic sans ms ;
+	text-align: center; 
+}
+.liclass {
+	background-color: #5500FF
+	color : #FFDD00;
+	font-family: comic sans ms;
+	text-align: center;
+}
+a: link {
+	color : black;
+}
+a: hover {
+	color : #3AE2CE;
+}
+a: active {
+	color : #3AE2CE ;
+}
